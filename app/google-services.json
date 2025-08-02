@@ -1,0 +1,201 @@
+{
+  "project_info": {
+    "project_number": "429580833161",
+    "firebase_url": "https://ridetask-39058-default-rtdb.firebaseio.com",
+    "project_id": "ridetask-39058",
+    "storage_bucket": "ridetask-39058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429580833161:android:8dd9fc0dae195490695158",
+        "android_client_info": {
+          "package_name": "com.bebossnow.provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCsl8pS9QdbIaCDSLpTW0bSOwCVsoynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429580833161:android:91f464622c57c957695158",
+        "android_client_info": {
+          "package_name": "com.bebossnow.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCsl8pS9QdbIaCDSLpTW0bSOwCVsoynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429580833161:android:9bb2be362b7242f6695158",
+        "android_client_info": {
+          "package_name": "com.bebossnow.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCsl8pS9QdbIaCDSLpTW0bSOwCVsoynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429580833161:android:810ec0a3cd784ad9695158",
+        "android_client_info": {
+          "package_name": "com.ridetask.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCsl8pS9QdbIaCDSLpTW0bSOwCVsoynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429580833161:android:9ccce656b2302bf3695158",
+        "android_client_info": {
+          "package_name": "com.ridetask.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCsl8pS9QdbIaCDSLpTW0bSOwCVsoynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429580833161:android:5f03fa4c494e55be695158",
+        "android_client_info": {
+          "package_name": "com.ridetask.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCsl8pS9QdbIaCDSLpTW0bSOwCVsoynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429580833161:android:7aee198d165dcd6f695158",
+        "android_client_info": {
+          "package_name": "com.ridetask.user1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCsl8pS9QdbIaCDSLpTW0bSOwCVsoynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429580833161:android:4829622282fdf1f7695158",
+        "android_client_info": {
+          "package_name": "com.ridetaskapp.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCsl8pS9QdbIaCDSLpTW0bSOwCVsoynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429580833161:android:d8df4e4edd862b7b695158",
+        "android_client_info": {
+          "package_name": "com.ridetaskapp.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCsl8pS9QdbIaCDSLpTW0bSOwCVsoynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429580833161:android:643024bc5aad8cf7695158",
+        "android_client_info": {
+          "package_name": "com.ridmore.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCsl8pS9QdbIaCDSLpTW0bSOwCVsoynU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
